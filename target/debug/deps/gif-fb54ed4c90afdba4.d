@@ -1,0 +1,13 @@
+/home/s/Code/Elysion/Code/Rust/betterpdf/betterpdf/target/debug/deps/libgif-fb54ed4c90afdba4.rmeta: /home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/lib.rs /home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/traits.rs /home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/common.rs /home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/reader/mod.rs /home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/reader/decoder.rs /home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/encoder.rs /home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/../README.md
+
+/home/s/Code/Elysion/Code/Rust/betterpdf/betterpdf/target/debug/deps/libgif-fb54ed4c90afdba4.rlib: /home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/lib.rs /home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/traits.rs /home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/common.rs /home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/reader/mod.rs /home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/reader/decoder.rs /home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/encoder.rs /home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/../README.md
+
+/home/s/Code/Elysion/Code/Rust/betterpdf/betterpdf/target/debug/deps/gif-fb54ed4c90afdba4.d: /home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/lib.rs /home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/traits.rs /home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/common.rs /home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/reader/mod.rs /home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/reader/decoder.rs /home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/encoder.rs /home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/../README.md
+
+/home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/lib.rs:
+/home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/traits.rs:
+/home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/common.rs:
+/home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/reader/mod.rs:
+/home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/reader/decoder.rs:
+/home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/encoder.rs:
+/home/s/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/../README.md:

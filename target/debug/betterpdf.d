@@ -1,0 +1,1 @@
+/home/s/Code/Elysion/Code/Rust/betterpdf/target/debug/betterpdf: /home/s/Code/Elysion/Code/Rust/betterpdf/src/application/converter.rs /home/s/Code/Elysion/Code/Rust/betterpdf/src/application/main.rs /home/s/Code/Elysion/Code/Rust/betterpdf/src/application/utils.rs
