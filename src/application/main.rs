@@ -4,7 +4,7 @@ mod utils;
 use std::path::Path;
 use converter::convert_jpg_to_pdf;
 use utils::parse_arguments;
-
+// TODO: FIX ERRORS
 fn main() {
     let args = parse_arguments();
 
